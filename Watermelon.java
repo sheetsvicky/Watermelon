@@ -3,7 +3,6 @@
  * 2) learning
  * make jar:
  * jar cfe Watermelon.jar Watermelon *.class
- * http://www.picb.ac.cn/~xuyichi/Watermelon.jar
  */
 import java.awt.*;
 import java.awt.geom.*;
