@@ -2,4 +2,4 @@
 
 A board game from my childhood with artificial intelligence 
 
-(./snapshot.png)
+![alt tag](https://github.com/sheetsvicky/Watermelon/blob/master/snapshot.png)
