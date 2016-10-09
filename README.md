@@ -1,4 +1,4 @@
-# Watermelon
+# Watermelon: for my grandmother and grandfather
 
 A board game from my childhood with artificial intelligence 
 
@@ -8,7 +8,6 @@ A board game from my childhood with artificial intelligence
 
 3) The player (red) takes the first step. The AI that controls green is selected in manu "AI".
 
-For my grandmother and grandfather.
 
 
 Download Jar:
